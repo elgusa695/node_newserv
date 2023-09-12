@@ -1,7 +1,7 @@
 /**
  * CONFIGURACION 
  */
-    const API_URL = 'http://144.126.212.205:8080'; // Cambiar según convenga.
+    const API_URL = 'https://apiservmani.cleverapps.io'; // Cambiar según convenga.
     // const API_URL = 'https://apinewentrega.cleverapps.io'; // Cambiar según convenga.
 
 
