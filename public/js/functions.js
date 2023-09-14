@@ -1,7 +1,7 @@
 /**
  * CONFIGURACION 
  */
-    const API_URL = 'http://apiser.us-east-1.elasticbeanstalk.com'; // Cambiar según convenga.
+    const API_URL = 'https://d240m7mho7rwho.cloudfront.net'; // Cambiar según convenga.
     // const API_URL = 'https://apinewentrega.cleverapps.io'; // Cambiar según convenga.
 
 
