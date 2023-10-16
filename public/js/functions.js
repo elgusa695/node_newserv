@@ -1,7 +1,7 @@
 /**
  * CONFIGURACION 
  */
-    const API_URL = 'https://dxztj2c1377ig.cloudfront.net'; // Cambiar según convenga.
+    const API_URL = 'https://d2a2x6lktdvk4b.cloudfront.net'; // Cambiar según convenga.
     // const API_URL = 'https://apinewentrega.cleverapps.io'; // Cambiar según convenga.
 
 
